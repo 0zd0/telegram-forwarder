@@ -60,7 +60,6 @@ exclude = [
     "venv",
     ".venv",
     "docs",
-    "tests",
     "dev",
     "scripts",
     "*.egg-info",
